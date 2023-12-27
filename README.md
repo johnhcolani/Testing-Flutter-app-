@@ -1,4 +1,4 @@
-# Testing-Flutter-app-
+# Testing-Flutter-app
 Testing Flutter app in less than 3 minutes
 
 <img width="346" alt="Pasted Graphic" src="https://github.com/johnhcolani/Testing-Flutter-app-/assets/91166301/cd7541d8-9692-40d7-bd7a-5d22b1ee786a"> 1 
